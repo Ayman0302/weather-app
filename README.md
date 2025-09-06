@@ -1,6 +1,6 @@
 # Weather App
 
-A simple weather app built with **Java, HTML, CSS**, and the **OpenWeatherMap API**.  
+A simple weather app built with **Javascript, HTML, CSS**, and the **OpenWeatherMap API**.  
 It fetches the current weather for any city and displays it in a clean interface.
 
 ## Features
